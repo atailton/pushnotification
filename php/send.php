@@ -1,6 +1,6 @@
 // API access key from Google API's Console                 
 
-    //$registrationIds = ["Los ids de los telefonos"];
+    //$registrationIds = ["array de id dos celulares aqui"];
 
 
     // preparando mensagem da notificação
