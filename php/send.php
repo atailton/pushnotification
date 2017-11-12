@@ -22,7 +22,7 @@
                     
                     $headers = array('Content-Type: application/json', 'Authorization:key=informeachavedoseuappaqui'
 );
-                    var_dump($fields);
+                   
                     $fields = json_encode($fields);
                     
                     
